@@ -1,0 +1,21 @@
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.Models\obj\Debug\BoxStorage.Models.csprojAssemblyReference.cache
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.Models\obj\Debug\BoxStorage.Models.csproj.CoreCompileInputs.cache
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.Models\bin\Debug\BoxStorage.Models.dll
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.Models\bin\Debug\BoxStorage.Models.pdb
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.Models\bin\Debug\BoxStorage.Exceptions.dll
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.Models\bin\Debug\BoxStorage.Exceptions.pdb
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.Models\obj\Debug\BoxStorage.Models.csproj.CopyComplete
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.Models\obj\Debug\BoxStorage.Models.dll
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.Models\obj\Debug\BoxStorage.Models.pdb
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.Models\bin\Debug\BoxStorage.Globals.dll
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.Models\bin\Debug\BoxStorage.Globals.pdb
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.Models\bin\Debug\BoxStorage.Models.dll
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.Models\bin\Debug\BoxStorage.Models.pdb
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.Models\bin\Debug\BoxStorage.Exceptions.dll
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.Models\bin\Debug\BoxStorage.Globals.dll
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.Models\bin\Debug\BoxStorage.Exceptions.pdb
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.Models\bin\Debug\BoxStorage.Globals.pdb
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.Models\obj\Debug\BoxStorage.Models.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.Models\obj\Debug\BoxStorage.Models.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.Models\obj\Debug\BoxStorage.Models.dll
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.Models\obj\Debug\BoxStorage.Models.pdb

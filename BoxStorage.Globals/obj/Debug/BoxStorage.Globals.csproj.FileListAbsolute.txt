@@ -1,0 +1,12 @@
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.Globals\bin\Debug\BoxStorage.Globals.dll
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.Globals\bin\Debug\BoxStorage.Globals.pdb
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.Globals\obj\Debug\BoxStorage.Globals.csprojAssemblyReference.cache
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.Globals\obj\Debug\BoxStorage.Globals.csproj.CoreCompileInputs.cache
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.Globals\obj\Debug\BoxStorage.Globals.dll
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.Globals\obj\Debug\BoxStorage.Globals.pdb
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.Globals\bin\Debug\BoxStorage.Globals.dll
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.Globals\bin\Debug\BoxStorage.Globals.pdb
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.Globals\obj\Debug\BoxStorage.Globals.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.Globals\obj\Debug\BoxStorage.Globals.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.Globals\obj\Debug\BoxStorage.Globals.dll
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.Globals\obj\Debug\BoxStorage.Globals.pdb

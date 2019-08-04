@@ -1,0 +1,12 @@
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.Exceptions\bin\Debug\BoxStorage.Exceptions.dll
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.Exceptions\bin\Debug\BoxStorage.Exceptions.pdb
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.Exceptions\obj\Debug\BoxStorage.Exceptions.csprojAssemblyReference.cache
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.Exceptions\obj\Debug\BoxStorage.Exceptions.csproj.CoreCompileInputs.cache
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.Exceptions\obj\Debug\BoxStorage.Exceptions.dll
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.Exceptions\obj\Debug\BoxStorage.Exceptions.pdb
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.Exceptions\bin\Debug\BoxStorage.Exceptions.dll
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.Exceptions\bin\Debug\BoxStorage.Exceptions.pdb
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.Exceptions\obj\Debug\BoxStorage.Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.Exceptions\obj\Debug\BoxStorage.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.Exceptions\obj\Debug\BoxStorage.Exceptions.dll
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.Exceptions\obj\Debug\BoxStorage.Exceptions.pdb

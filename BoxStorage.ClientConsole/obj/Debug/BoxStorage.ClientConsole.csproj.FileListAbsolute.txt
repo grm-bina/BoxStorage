@@ -1,0 +1,31 @@
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.ClientConsole\obj\Debug\BoxStorage.ClientConsole.csprojAssemblyReference.cache
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.ClientConsole\obj\Debug\BoxStorage.ClientConsole.csproj.CoreCompileInputs.cache
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.ClientConsole\bin\Debug\BoxStorage.ClientConsole.exe.config
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.ClientConsole\bin\Debug\BoxStorage.ClientConsole.exe
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.ClientConsole\bin\Debug\BoxStorage.ClientConsole.pdb
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.ClientConsole\bin\Debug\BoxStorage.BL.dll
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.ClientConsole\bin\Debug\BoxStorage.Exceptions.dll
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.ClientConsole\bin\Debug\BoxStorage.Models.dll
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.ClientConsole\bin\Debug\BoxStorage.BL.pdb
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.ClientConsole\bin\Debug\BoxStorage.Exceptions.pdb
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.ClientConsole\bin\Debug\BoxStorage.Models.pdb
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.ClientConsole\obj\Debug\BoxStorage.ClientConsole.csproj.CopyComplete
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.ClientConsole\obj\Debug\BoxStorage.ClientConsole.exe
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.ClientConsole\obj\Debug\BoxStorage.ClientConsole.pdb
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.ClientConsole\bin\Debug\BoxStorage.Globals.dll
+C:\документы\учеба\села\algoritms & DS\проект\BoxStorage\BoxStorage.ClientConsole\bin\Debug\BoxStorage.Globals.pdb
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.ClientConsole\bin\Debug\BoxStorage.ClientConsole.exe.config
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.ClientConsole\bin\Debug\BoxStorage.ClientConsole.exe
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.ClientConsole\bin\Debug\BoxStorage.ClientConsole.pdb
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.ClientConsole\bin\Debug\BoxStorage.BL.dll
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.ClientConsole\bin\Debug\BoxStorage.Exceptions.dll
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.ClientConsole\bin\Debug\BoxStorage.Globals.dll
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.ClientConsole\bin\Debug\BoxStorage.Models.dll
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.ClientConsole\bin\Debug\BoxStorage.BL.pdb
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.ClientConsole\bin\Debug\BoxStorage.Exceptions.pdb
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.ClientConsole\bin\Debug\BoxStorage.Globals.pdb
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.ClientConsole\bin\Debug\BoxStorage.Models.pdb
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.ClientConsole\obj\Debug\BoxStorage.ClientConsole.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.ClientConsole\obj\Debug\BoxStorage.ClientConsole.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.ClientConsole\obj\Debug\BoxStorage.ClientConsole.exe
+C:\Users\TEMP.STDDOM.017\Desktop\BoxStorage\BoxStorage.ClientConsole\obj\Debug\BoxStorage.ClientConsole.pdb
